@@ -1,0 +1,7 @@
+{
+  "name": "ATENEA",
+  "description": "Asistente de encuestas por voz impulsado por Gemini Live. Recopila datos demográficos y exporta a Excel.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
